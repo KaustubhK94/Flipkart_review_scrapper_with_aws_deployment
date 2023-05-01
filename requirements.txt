@@ -5,3 +5,4 @@ bs4
 werkzeug
 csv
 io
+urllib.request
