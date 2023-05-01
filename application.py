@@ -1,5 +1,5 @@
 from werkzeug.utils import send_file
-from flask import Flask, render_template, request,  session
+from flask import Flask, render_template, request,session
 from flask_cors import CORS, cross_origin
 import requests
 from bs4 import BeautifulSoup as bs
